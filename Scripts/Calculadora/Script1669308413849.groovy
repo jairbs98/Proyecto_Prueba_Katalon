@@ -25,7 +25,7 @@ WebUI.waitForPageLoad(0)
 
 resultado = 0
 
-while (resultado != 10) {
+while (resultado != 15) {
     int numero = (((Math.random() * 5) + 1) as int)
 
     WebUI.setText(findTestObject('Object Repository/input_Buscar'), '5 + ' + numero)
