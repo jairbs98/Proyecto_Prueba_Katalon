@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>URL correspondiente a SARI Tester</description>
+      <initValue>'http://10.44.1.81/SARI_TEST/login.php#/'</initValue>
+      <name>urlSariTest</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

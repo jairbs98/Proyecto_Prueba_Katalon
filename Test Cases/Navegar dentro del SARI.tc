@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Movernos dentro del sistema SARI</description>
+   <name>Navegar dentro del SARI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9fbdb04-2a0a-4534-8aeb-b9c72c730abf</testCaseGuid>
+</TestCaseEntity>
