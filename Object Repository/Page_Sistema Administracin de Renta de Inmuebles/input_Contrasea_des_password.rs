@@ -6,12 +6,12 @@
    <elementGuidId>f362a9f6-21b4-4ba1-88ee-967f7e74e9d9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='des_password']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#des_password</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='des_password']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
